@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chifoumi/src/Chifoumi.iml" filepath="$PROJECT_DIR$/Chifoumi/src/Chifoumi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatOperations/src/FloatOperations.iml" filepath="$PROJECT_DIR$/FloatOperations/src/FloatOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/src/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntOperations/src/IntOperations.iml" filepath="$PROJECT_DIR$/IntOperations/src/IntOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsEven/src/IsEven.iml" filepath="$PROJECT_DIR$/IsEven/src/IsEven.iml" />
     </modules>
   </component>
 </project>
