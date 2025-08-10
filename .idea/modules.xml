@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/src/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntOperations/src/IntOperations.iml" filepath="$PROJECT_DIR$/IntOperations/src/IntOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/IsEven/src/IsEven.iml" filepath="$PROJECT_DIR$/IsEven/src/IsEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringConcat/src/StringConcat.iml" filepath="$PROJECT_DIR$/StringConcat/src/StringConcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringLength/src/StringLength.iml" filepath="$PROJECT_DIR$/StringLength/src/StringLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringReplace/src/StringReplace.iml" filepath="$PROJECT_DIR$/StringReplace/src/StringReplace.iml" />
     </modules>
   </component>
 </project>
