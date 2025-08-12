@@ -20,6 +20,7 @@ public class SortArgs {
             arrayInt[j + 1] = current; // Place current in its correct spot.
 
         }
+
         // Print each number separated by spaces using for loop
         for (int i = 0; i < arrayInt.length; i++) {
             System.out.print(arrayInt[i]);
