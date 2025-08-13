@@ -2,7 +2,7 @@ public class DoOp {
     public static String operate(String[] args) {
         // Error check.
         if (args == null || args.length != 3) {
-            return "it depend on the input.";
+            return "Error";
         }
 
         // Get the values from args by index and declare result.
